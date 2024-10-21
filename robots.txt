@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://borewsper.github.io/borewsper.txt.gz
+Sitemap: https://borewsper.github.io/app/borewsper.txt.gz
+Sitemap: https://borewsper.github.io/assets/borewsper.txt.gz
+Sitemap: https://borewsper.github.io/css/borewsper.txt.gz
+Sitemap: https://borewsper.github.io/includes/borewsper.txt.gz
+Sitemap: https://borewsper.github.io/item/borewsper.txt.gz
+Sitemap: https://borewsper.github.io/src/borewsper.txt.gz
